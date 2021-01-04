@@ -1,0 +1,1 @@
+This is one of my projects where I use Machine Learning algorithms to predict if a person is a potential donar or not.
